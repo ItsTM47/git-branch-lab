@@ -7,5 +7,5 @@ A project for learning Git Branch
 - Understand Remote Branch
 
 ## Author
-- Student: [Your Name]
-- ID: [Student ID]
+- Student: Vimolsiri Panma
+- ID: 66070187
